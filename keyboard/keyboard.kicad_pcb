@@ -90,7 +90,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "05964023-71af-44b7-955c-bcf98447e7c0")
-		(at 113.975 33.4625)
+		(at 263.8875 20.15)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -254,12 +254,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "0bb2f012-4894-4aa1-872b-301d49a9eec0")
-		(at 119.989824 132.255503 180)
+		(at 132.75 141.4 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW12"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "12eebb93-8e9b-4105-ab39-0e09db421597")
+			(uuid "54c93e43-1132-4d46-8769-cb8c03fea4e6")
 			(effects
 				(font
 					(size 1 1)
@@ -271,7 +271,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "c78cfd7c-5498-4055-bbec-00fe416fdf19")
+			(uuid "23bf6f5c-d57a-4d2f-af25-edfb78b636ce")
 			(effects
 				(font
 					(size 1 1)
@@ -284,7 +284,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2b6cb09b-24d0-4438-8722-bb8d37964a50")
+			(uuid "f96eba68-f695-4862-9939-103aae74e66c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -297,7 +297,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b83569a5-4238-42c1-99ef-2c64edebfb20")
+			(uuid "d852e225-1f58-410e-b237-109168973130")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1290,12 +1290,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "11ca85f5-9a3f-40a2-a45b-e928963c06db")
-		(at 70.439824 63.305503 180)
+		(at 84 48.6 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW4"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "ee9e9e0c-7853-479a-92a3-9c770b8b212b")
+			(uuid "b2c0eae9-3289-4dfc-8fce-66f6a315d06d")
 			(effects
 				(font
 					(size 1 1)
@@ -1307,7 +1307,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "c91275b3-9971-468e-8101-0bc94555425a")
+			(uuid "9b851ead-7314-432a-89e0-8bbf167f8a80")
 			(effects
 				(font
 					(size 1 1)
@@ -1320,7 +1320,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "478381f5-9071-4b0b-94e0-495130248608")
+			(uuid "15ca20d7-237d-43e8-9a09-5fc32d4bd4c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1333,7 +1333,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2ad507ab-2e89-454a-a0bc-b0b0c1e472f8")
+			(uuid "fa99c6ea-18e4-4c87-a9cb-962edd47a910")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2326,7 +2326,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "1404a2f0-9db8-4e2b-8669-ac5bdf6f47f8")
-		(at 115.9375 36.6125)
+		(at 265.85 23.3)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C6"
@@ -2490,7 +2490,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "146c069f-d94c-4959-abc0-c30e21806ced")
-		(at 143.975 68.45 -90)
+		(at 220.975 68.05 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D13"
@@ -2803,7 +2803,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "15eccd0a-f039-4719-a26b-a3dccb3dff44")
-		(at 143.2 53.625 -90)
+		(at 220.2 53.225 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D6"
@@ -3116,7 +3116,7 @@
 	(footprint "Connector_Wire:SolderWire-0.25sqmm_1x04_P4.5mm_D0.65mm_OD2mm_Relief"
 		(layer "B.Cu")
 		(uuid "2324d7f0-feb7-46cc-8641-f3a5351b5943")
-		(at 85.25 49.0875 90)
+		(at 235.1625 35.775 90)
 		(descr "Soldered wire connection with feed through strain relief, for 4 times 0.25 mm² wires, reinforced insulation, conductor diameter 0.65mm, outer diameter 2mm, size source Multi-Contact FLEXI-2V 0.25 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter")
 		(tags "connector wire 0.25sqmm strain-relief")
 		(property "Reference" "J1"
@@ -3628,7 +3628,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "2c7f9b24-5939-4046-8a1d-00da03f8b32a")
-		(at 144.025 81.95 180)
+		(at 221.025 81.55 180)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D18"
@@ -3941,12 +3941,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "2c8756b3-652d-4ea2-961f-c4ab3465ca5b")
-		(at 110.464824 113.205503 180)
+		(at 123 121.9 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW9"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "63e9098c-fa49-4d7f-bbef-489f81c93a0e")
+			(uuid "0db4c293-cdb9-43b9-aa40-8f3ad473eb0c")
 			(effects
 				(font
 					(size 1 1)
@@ -3958,7 +3958,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "bcc59142-fa36-4a35-ad55-6a96884ccd15")
+			(uuid "9dc303cd-da5c-4058-8e1e-f7aa8a6ef782")
 			(effects
 				(font
 					(size 1 1)
@@ -3971,7 +3971,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d9ceaf51-e977-46d1-876c-1e69eb45ffd9")
+			(uuid "0b6e8e5f-87f1-4fe5-ab4b-cf104a0ee742")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3984,7 +3984,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cd2f5014-ad5a-4e84-9c8e-585cd35f82de")
+			(uuid "39a8046c-5656-45a0-86c6-c2f94342b839")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4977,7 +4977,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "2fbf894b-fc5c-46a4-84b5-0c340565c2fa")
-		(at 146.95 60.9 -90)
+		(at 223.95 60.5 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D10"
@@ -5290,7 +5290,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "31e20b4c-faa0-4ca5-beb2-ef4866f1060e")
-		(at 102.35 33.9875 90)
+		(at 252.2625 20.675 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C12"
@@ -5454,12 +5454,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "32a4246f-2566-46cf-856c-e64a7c5a853b")
-		(at 81.889824 132.255503 180)
+		(at 93.75 141.4 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW14"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "ee1a9090-936c-4c99-bb54-c7e153bbcea4")
+			(uuid "94a88fa2-0099-4c7c-8618-b77384dcb00d")
 			(effects
 				(font
 					(size 1 1)
@@ -5471,7 +5471,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "9460ee07-a3db-4a2c-a636-97e346957f78")
+			(uuid "7569317e-b294-4235-9e75-c5c5cbc3f481")
 			(effects
 				(font
 					(size 1 1)
@@ -5484,7 +5484,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "53e7717f-6695-4e14-9fb8-e6803ab5ed6e")
+			(uuid "0a9ec5c7-cb78-4052-9d5b-b58f8d6ec161")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5497,7 +5497,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "81750fb7-b6b1-4cc9-a01e-eebd6503216b")
+			(uuid "45ed2fb3-b10c-4da9-95c3-0aaea9468ced")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6490,7 +6490,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "39924765-ea9f-4b45-b161-f6d2937a1819")
-		(at 143.875 77.475 180)
+		(at 220.875 77.075 180)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D17"
@@ -6803,7 +6803,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "3aa95429-7c51-4336-89e9-3a715b58f428")
-		(at 96.225 46.9875)
+		(at 246.1375 33.675)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -6967,12 +6967,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "3bede91f-6173-40af-aae5-1107557ae463")
-		(at 91.414824 113.205503 180)
+		(at 103.5 121.9 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW10"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "408900cf-8d8d-4733-af7d-190b17e3dbed")
+			(uuid "e772f630-d90d-4c5d-ba07-f22125da0ac7")
 			(effects
 				(font
 					(size 1 1)
@@ -6984,7 +6984,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "30ba6c69-9c02-49c8-b131-321547824b59")
+			(uuid "ba60081b-b0b2-4517-b5cc-9b38f6a1554a")
 			(effects
 				(font
 					(size 1 1)
@@ -6997,7 +6997,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ac6ec625-0312-4667-8d34-041982ee939b")
+			(uuid "225e9683-5ce3-4802-bc14-f1f1f0e8e3cc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7010,7 +7010,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1b8900d8-b6b4-48ee-90e8-3501da0cf43e")
+			(uuid "31da8d59-e3e9-4fb9-aeb5-c8acdeaebddf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8003,7 +8003,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "3f54af63-61a0-43ab-acbf-a5a953ecf369")
-		(at 139.925 61.225 -90)
+		(at 216.925 60.825 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D8"
@@ -9352,12 +9352,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "454cc8d7-acb9-4043-8c6f-e24b7c35179d")
-		(at 99.014824 82.355503 180)
+		(at 113.25 68.1 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW6"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "267bc750-f7b5-4862-90f9-87d38821bd0d")
+			(uuid "4864fc77-b987-438d-9907-8959e5026692")
 			(effects
 				(font
 					(size 1 1)
@@ -9369,7 +9369,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "8f480ddb-44c7-4b09-9959-dee90389430b")
+			(uuid "2f9807c1-6abd-47fc-bf33-b95f3496eb53")
 			(effects
 				(font
 					(size 1 1)
@@ -9382,7 +9382,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8236af48-6d07-406d-a028-60e289cef7c9")
+			(uuid "9722d003-3368-4081-a3a7-dd7392caa9fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9395,7 +9395,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "65e60542-290b-4c21-b3ee-f856ba88d063")
+			(uuid "e04c4840-cbd7-4599-b3fa-c7c91c6f6b1e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10388,7 +10388,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "467eaaa5-f938-4255-be28-a2e5a52e33ec")
-		(at 83.1125 53.6375)
+		(at 233.025 40.325)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D2"
@@ -10617,7 +10617,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "49c7fbb3-ebd9-4de4-8e36-846dc763b9d9")
-		(at 116.3375 48.4625)
+		(at 266.25 35.15)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -10781,7 +10781,7 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "4a2ad7c8-6869-40ee-88b1-036ec342ef8f")
-		(at 156.3 145 180)
+		(at 184.5 145 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW20"
 			(at -4.25 1.6 0)
@@ -11817,7 +11817,7 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "4df6ff93-847e-40ee-bbf5-d0f5d2f8c397")
-		(at 156.3 45 180)
+		(at 184.5 45 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW18"
 			(at -4.25 1.6 0)
@@ -12853,7 +12853,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "4f4a7a2a-f992-4590-99a0-4daf40ec1372")
-		(at 142.875 61.225 -90)
+		(at 219.875 60.825 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D9"
@@ -13166,7 +13166,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "52d58bc3-0f28-49ea-a117-07983459911e")
-		(at 149.9 60.9 -90)
+		(at 226.9 60.5 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D11"
@@ -13479,7 +13479,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "555603e7-baac-47a4-bdbb-36d701c20db8")
-		(at 146.15 53.625 -90)
+		(at 223.15 53.225 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D7"
@@ -13792,12 +13792,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "5a1ad3e1-a1d9-46c1-b6a7-d0ff3f2f3bfb")
-		(at 118.064824 82.355503 180)
+		(at 132.75 68.1 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW5"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "da6a8eeb-1cf6-4985-a62c-881721643ba3")
+			(uuid "ab9f9417-2f6a-473b-9c12-78ba2180edd5")
 			(effects
 				(font
 					(size 1 1)
@@ -13809,7 +13809,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "58adab3a-4033-41a0-9a89-8e5cc5c7294b")
+			(uuid "633eb554-7794-4067-8a00-192a760876c8")
 			(effects
 				(font
 					(size 1 1)
@@ -13822,7 +13822,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e72a429b-d308-4634-90e8-6d2ebb21673e")
+			(uuid "5abbf30b-7242-4f42-bd5d-6056ae0185a3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13835,7 +13835,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "81309b86-671a-41b6-8e57-7366a39711ea")
+			(uuid "7f4ca5aa-c505-4975-81a2-2b77507e0fa8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14828,7 +14828,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_TL3305A"
 		(layer "B.Cu")
 		(uuid "5e641d17-67b1-4a14-a97d-ef21020ae80f")
-		(at 123.9625 40.2125)
+		(at 273.875 26.9)
 		(descr "https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf")
 		(tags "TL3305 Series Tact Switch")
 		(property "Reference" "SW21"
@@ -15289,12 +15289,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "5fdeb302-8564-467c-bebc-e881dda98ed1")
-		(at 89.489824 63.305503 180)
+		(at 103.5 48.6 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW3"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "e769832b-138e-4148-b3d1-80d9a205e88c")
+			(uuid "77d36168-b3aa-434b-ab29-555c329d48bc")
 			(effects
 				(font
 					(size 1 1)
@@ -15306,7 +15306,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "0c939202-a976-4f12-ba99-3b084d2bf221")
+			(uuid "67cd896c-d5b8-4e5d-a4db-a791d1c7f1e8")
 			(effects
 				(font
 					(size 1 1)
@@ -15319,7 +15319,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f35cba5a-727a-451e-8abd-5364321ca387")
+			(uuid "c4691f76-6bed-40e3-abb3-c0e9b5e74f4b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15332,7 +15332,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c6fa80d3-fc6c-4ee6-a33d-2e7ff18e6c69")
+			(uuid "76124b50-ae2a-4188-ba08-53550c4bdf95")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16325,12 +16325,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "6139e683-ba27-4afb-99c2-ea539be184cb")
-		(at 127.589824 63.305503 180)
+		(at 142.5 48.6 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW1"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "c35c8b87-2fbd-4411-a6b2-a1d2b0b619b8")
+			(uuid "12f06ae3-e159-4382-a2d7-b0a668fccd00")
 			(effects
 				(font
 					(size 1 1)
@@ -16342,7 +16342,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "b43fe638-28b8-47dd-9d00-1a0a8e6918b3")
+			(uuid "20011d05-da65-4521-834d-06180c727e2d")
 			(effects
 				(font
 					(size 1 1)
@@ -16355,7 +16355,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7dfbe9b1-8a26-441d-a917-85f1889434d4")
+			(uuid "c53a61be-2f4e-40b0-a5ab-53b1ede3876b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16368,7 +16368,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "87f09585-85e2-4c0e-912b-2e5d3a8892d5")
+			(uuid "b5d7a798-830e-4e9b-86c8-57fdd002ac13")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17361,12 +17361,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "6e7516a6-b028-4310-8e23-d56e9a79d736")
-		(at 129.514824 113.205503 180)
+		(at 142.5 121.9 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW8"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "76cb432c-d941-4d40-978d-33e5f3055d10")
+			(uuid "281a68f0-fa21-4566-83ba-a86ae5d15bd8")
 			(effects
 				(font
 					(size 1 1)
@@ -17378,7 +17378,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "4ee15e8e-5925-4d07-b257-893f56052c09")
+			(uuid "30b37586-d8ae-4b79-beaa-300ba0b89c6c")
 			(effects
 				(font
 					(size 1 1)
@@ -17391,7 +17391,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "da31aa01-ba0b-4c86-adb3-db90d636c302")
+			(uuid "0e5136fc-e2da-43ff-855b-2a38b90a2648")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17404,7 +17404,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c6dde370-b7ee-4560-ae38-3115acb57d27")
+			(uuid "b65b343e-4efa-4477-a400-3c33b3e033f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18397,7 +18397,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "6f045363-9b79-40d7-8805-dbbc3b3b93b0")
-		(at 87.3625 53.6125 180)
+		(at 237.275 40.3 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -18561,7 +18561,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "7143c0e5-b377-4ea2-84f3-d3852ceb606b")
-		(at 107.95 32.6125 180)
+		(at 257.8625 19.3 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -19761,7 +19761,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "722dab43-1d31-48cb-a48e-ec9fa5a02d09")
-		(at 96.125 44.6125)
+		(at 246.0375 31.3)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -19925,12 +19925,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "751669a4-eeeb-4c13-8659-4de8d9181a8d")
-		(at 100.939824 132.255503 180)
+		(at 113.25 141.4 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW13"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "490e4f95-ead9-47f0-a1ea-9184327996f3")
+			(uuid "f30d2d24-17a2-4d56-b9ff-be2778b1eb04")
 			(effects
 				(font
 					(size 1 1)
@@ -19942,7 +19942,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "6c1ab2b7-2bc2-4ffe-9401-f2c13e27e8e3")
+			(uuid "0938c4cc-747d-4dbd-a13f-e7ed8115bb84")
 			(effects
 				(font
 					(size 1 1)
@@ -19955,7 +19955,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cb1b5f46-4140-41dc-8fc8-5d02f1c8559f")
+			(uuid "4269449d-97cd-4c9f-aa3b-02ac9f7bc52f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19968,7 +19968,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "70fad416-5c1b-4d8f-b33e-ad560e82dc33")
+			(uuid "d023bcfd-d290-4006-a27f-d3f63249c56a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20961,12 +20961,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "765caece-a38b-4c0f-ae48-d02b5b9cff3e")
-		(at 108.539824 63.305503 180)
+		(at 123 48.6 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW2"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "19a7d150-cb2f-4f0f-b6c5-9fbbe50cb796")
+			(uuid "e9ee53d7-0bc1-48cf-b121-9f96919a748d")
 			(effects
 				(font
 					(size 1 1)
@@ -20978,7 +20978,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "f11e4703-e8cd-40b1-9bc1-d80d4e7d8ae4")
+			(uuid "8d24ea73-803b-4795-abf4-091c90b5c96b")
 			(effects
 				(font
 					(size 1 1)
@@ -20991,7 +20991,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b53874ab-e3eb-46d5-84e7-0e7c13fca30a")
+			(uuid "b5c4eb51-606c-41d9-b37a-ec64ad86e88c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21004,7 +21004,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cd20013b-0ae4-4499-b180-85b5faf53553")
+			(uuid "ebce203d-ce7d-45a6-8f40-be589cdd0059")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21997,7 +21997,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "B.Cu")
 		(uuid "776e69a7-4704-446f-9711-3f7f92d9a63e")
-		(at 100.9625 46.0875 -90)
+		(at 250.875 32.775 -90)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP2"
@@ -22111,7 +22111,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "808314d0-5709-4772-ba7f-eb98fd0e27fc")
-		(at 146.925 68.45 -90)
+		(at 223.925 68.05 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D14"
@@ -22424,7 +22424,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "85a2136e-84f5-41e4-a8cc-db8f9729a512")
-		(at 149.875 68.45 -90)
+		(at 226.875 68.05 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D15"
@@ -22737,7 +22737,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical"
 		(layer "B.Cu")
 		(uuid "90d6ecef-43ca-4fd6-bcef-6dab43c8ee9d")
-		(at 95.375 33.7625 90)
+		(at 245.2875 20.45 90)
 		(descr "Through hole straight pin header, 1x04, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 1.27mm single row")
 		(property "Reference" "J2"
@@ -23026,7 +23026,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "91745b80-42d3-4b27-9250-ed10b98b390d")
-		(at 140.25 53.625 -90)
+		(at 217.25 53.225 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D5"
@@ -23339,7 +23339,7 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "91bec24e-668e-43eb-9237-8b5cf82e109a")
-		(at 156.3 95 180)
+		(at 184.5 95 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW19"
 			(at -4.25 1.6 0)
@@ -24375,7 +24375,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "94e1308f-b54f-4475-b8b7-5bc89046182c")
-		(at 141.025 68.45 -90)
+		(at 218.025 68.05 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D12"
@@ -24688,7 +24688,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "998e790b-7e9d-41f7-b73c-1886cc23d475")
-		(at 120.4625 34.9375 90)
+		(at 270.375 21.625 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C5"
@@ -24852,7 +24852,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "9d0886e5-79fb-4c15-8970-1d2e83fe7925")
-		(at 137.3 53.625 -90)
+		(at 214.3 53.225 -90)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D4"
@@ -25165,7 +25165,7 @@
 	(footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm"
 		(layer "B.Cu")
 		(uuid "9eb4db94-fbdb-4a99-8b5f-72d1f7fa2508")
-		(at 107.925 39.3625 180)
+		(at 257.8375 26.05 180)
 		(descr "LQFP, 48 Pin (JEDEC MS-026 variation BBC, 1.40mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-lqfp/05081760_a_lx48.pdf)")
 		(tags "LQFP QFP CASE-932AA CASE-932-03 C48-1 C48-2 C48-3 C48-5 C48-6 C48-6C PT0048A")
 		(property "Reference" "U3"
@@ -26057,7 +26057,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "B.Cu")
 		(uuid "a236b700-50b8-4c8e-90c3-edbd44321e58")
-		(at 93.825 38)
+		(at 243.7375 24.6875)
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
@@ -26425,7 +26425,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "a60e13df-6aad-4c6b-8431-c93491d62397")
-		(at 99.075 33.8625 90)
+		(at 248.9875 20.55 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C13"
@@ -26589,7 +26589,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "B.Cu")
 		(uuid "b025b9b4-7e09-4de2-8c00-980908d1e885")
-		(at 120.8125 52.3125 90)
+		(at 270.725 39 90)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP1"
@@ -26703,12 +26703,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "bd2ebf03-e115-481a-aa2e-a0e088b3b550")
-		(at 72.364824 113.205503 180)
+		(at 84 121.9 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW11"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "e069e204-e023-4068-8700-8da580d9761d")
+			(uuid "53468688-a4ef-4a93-8050-7dd6b50e0fa7")
 			(effects
 				(font
 					(size 1 1)
@@ -26720,7 +26720,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "9d4b19af-e54b-498f-8109-436bba5d9b26")
+			(uuid "b0ff296f-366c-4d83-8d88-28208cb60632")
 			(effects
 				(font
 					(size 1 1)
@@ -26733,7 +26733,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "781c9fa5-3360-4062-bc03-93467453ce7c")
+			(uuid "5790b426-5f24-4d5c-a0c2-1007069dddab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26746,7 +26746,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "47a310a9-5951-4fee-a53a-48d303f9ba15")
+			(uuid "d2891495-aeb8-4d1b-af41-9ceedcf432ee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27739,7 +27739,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "bdbf2c5c-e3a1-46b7-a116-7fb66b3b475e")
-		(at 91.2875 53.8375 180)
+		(at 241.2 40.525 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -27903,7 +27903,7 @@
 	(footprint "Diode_SMD:D_SOD-323"
 		(layer "B.Cu")
 		(uuid "c078f336-305d-4891-8ecd-4ef691d201da")
-		(at 143.5 74.15 180)
+		(at 220.5 73.75 180)
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D16"
@@ -28216,7 +28216,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "B.Cu")
 		(uuid "c339aec6-d399-4dfc-b459-9cdf2c4f26e9")
-		(at 115.2375 52.3375 90)
+		(at 265.15 39.025 90)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP3"
@@ -28330,7 +28330,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "c69e68e0-6241-4373-b6aa-0b9e3a57602c")
-		(at 116.1625 40.5625)
+		(at 266.075 27.25)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C10"
@@ -28494,7 +28494,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "c7078836-a134-43fb-8a54-a7c645ea0e46")
-		(at 105.95 49.6375)
+		(at 255.8625 36.325)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C9"
@@ -28658,7 +28658,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-5"
 		(layer "B.Cu")
 		(uuid "c8746ed8-f8db-4b6c-b72d-c439c926b7ec")
-		(at 96.125 50.6125 -90)
+		(at 246.0375 37.3 -90)
 		(descr "SOT, 5 Pin (JEDEC MO-178 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U1"
@@ -29066,7 +29066,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "cb5f273a-0fcc-4bc7-9564-639e7499687f")
-		(at 106.025 46.0375)
+		(at 255.9375 32.725)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C7"
@@ -29230,7 +29230,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "cc31679d-0cdc-4943-8cba-c4ed278c7bea")
-		(at 116.1875 43.8375)
+		(at 266.1 30.525)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C11"
@@ -29394,7 +29394,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "d03c9831-e8dd-4986-afa0-b7ac2eada3f9")
-		(at 98.2 38.1875 -90)
+		(at 248.1125 24.875 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
@@ -29558,7 +29558,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "de2da560-d41e-4cd1-97b3-31f7a332705b")
-		(at 120.5125 48.5125 180)
+		(at 270.425 35.2 180)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D3"
@@ -30823,7 +30823,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "f416fe02-b319-40a7-a966-30dc3f260e31")
-		(at 100.225 50.1625 90)
+		(at 250.1375 36.85 90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -30987,7 +30987,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "B.Cu")
 		(uuid "fd0b46d5-a4c3-44b6-a412-72ebd1ccce57")
-		(at 90.45 47.0875 -90)
+		(at 240.3625 33.775 -90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D1"
@@ -31272,12 +31272,12 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1.5u"
 		(layer "B.Cu")
 		(uuid "fec2666a-daa3-4cb1-a5ab-e16f9e0b4daa")
-		(at 79.964824 82.355503 180)
+		(at 93.75 68.1 180)
 		(descr "Footprint for Cherry MX style switches with Gateron KS-2P02B01-01 hotswap socket")
 		(property "Reference" "SW7"
 			(at -4.25 1.6 0)
 			(layer "B.SilkS")
-			(uuid "5163e861-f9d0-488b-ae46-c7bb9222af37")
+			(uuid "00c317af-0dcb-4545-ae06-230f3d2c8c98")
 			(effects
 				(font
 					(size 1 1)
@@ -31289,7 +31289,7 @@
 		(property "Value" "SW_Push"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "33bf1ae6-fc47-4497-97a8-55e4cf294323")
+			(uuid "5f3f2495-40ba-4c50-862b-9758c1f9409c")
 			(effects
 				(font
 					(size 1 1)
@@ -31302,7 +31302,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6d1e25c6-3eb8-4811-a031-032c433d41df")
+			(uuid "188d2d4f-c7ab-4921-86f0-2d804a376b24")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31315,7 +31315,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "30fd4232-205d-488d-8b3d-8b6eea59672b")
+			(uuid "4e43c182-10f6-456a-bcf4-df97756823ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32305,255 +32305,22 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 42 45)
-		(end 156.3 145)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "Cmts.User")
-		(uuid "765ffb88-1354-4cc6-85c9-3451d49b7583")
-	)
 	(gr_line
-		(start 70.575 45)
-		(end 70.575 174.725)
+		(start 84 48.6)
+		(end 84 165.5)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(layer "Cmts.User")
-		(uuid "d7fe9a47-cb37-4b7c-8930-53063fab5d7e")
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "20bf58e4-2b90-4d70-b7b1-ac88d5bcdf00")
-		(pts
-			(xy 127.589824 63.305503) (xy 108.539824 63.305503)
-		)
-		(height 13.05)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 118.064824 49.105503 0)
-			(layer "Cmts.User")
-			(uuid "20bf58e4-2b90-4d70-b7b1-ac88d5bcdf00")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "2f696fef-45df-4546-90e5-666cb5c1bf1e")
-		(pts
-			(xy 127.725 45) (xy 156.3 45)
-		)
-		(height -13.05)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "28.575"
-			(at 142.0125 30.8 0)
-			(layer "Cmts.User")
-			(uuid "2f696fef-45df-4546-90e5-666cb5c1bf1e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "324e1fbd-be8e-4020-a062-71d3098e63ed")
-		(pts
-			(xy 100.939824 132.255503) (xy 81.889824 132.255503)
-		)
-		(height -10.45)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 91.414824 141.555503 0)
-			(layer "Cmts.User")
-			(uuid "324e1fbd-be8e-4020-a062-71d3098e63ed")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "59eb4f6d-dda3-4d6a-bb96-03a81274f1af")
-		(pts
-			(xy 110.464824 113.205503) (xy 91.414824 113.205503)
-		)
-		(height 11)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 100.939824 101.055503 0)
-			(layer "Cmts.User")
-			(uuid "59eb4f6d-dda3-4d6a-bb96-03a81274f1af")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "5ae24584-7606-4521-9556-d50dd3681c26")
-		(pts
-			(xy 118.064824 82.355503) (xy 99.014824 82.355503)
-		)
-		(height -13.9)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 108.539824 95.105503 0)
-			(layer "Cmts.User")
-			(uuid "5ae24584-7606-4521-9556-d50dd3681c26")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "7d158a0f-b07b-4689-91f4-c26e17421fae")
-		(pts
-			(xy 70.575 45) (xy 42 45)
-		)
-		(height 13.05)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "28.575"
-			(at 56.2875 30.8 0)
-			(layer "Cmts.User")
-			(uuid "7d158a0f-b07b-4689-91f4-c26e17421fae")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
+		(uuid "021129e9-de0f-4398-8b13-8b3b5f1204a4")
 	)
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
 		(uuid "8503b629-37cb-4881-b29c-f01a40cb9000")
 		(pts
-			(xy 156.3 45) (xy 156.3 95)
+			(xy 184.5 45) (xy 184.5 95)
 		)
 		(height 12.5)
 		(format
@@ -32574,7 +32341,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "50"
-			(at 142.65 70 90)
+			(at 170.85 70 90)
 			(layer "Cmts.User")
 			(uuid "8503b629-37cb-4881-b29c-f01a40cb9000")
 			(effects
@@ -32588,11 +32355,11 @@
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
-		(uuid "a5511b36-dc74-4333-be8f-ccc447b7df63")
+		(uuid "93281ab2-b4fe-4501-bf21-cfd5adf428e2")
 		(pts
-			(xy 108.539824 63.305503) (xy 89.489824 63.305503)
+			(xy 42 45) (xy 184.5 45)
 		)
-		(height 13.05)
+		(height -15.75)
 		(format
 			(prefix "")
 			(suffix "")
@@ -32602,7 +32369,7 @@
 			(suppress_zeroes yes)
 		)
 		(style
-			(thickness 0.1)
+			(thickness 0.2)
 			(arrow_length 1.27)
 			(text_position_mode 0)
 			(arrow_direction outward)
@@ -32610,14 +32377,14 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "19.05"
-			(at 99.014824 49.105503 0)
+		(gr_text "142.5"
+			(at 113.25 27.45 0)
 			(layer "Cmts.User")
-			(uuid "a5511b36-dc74-4333-be8f-ccc447b7df63")
+			(uuid "93281ab2-b4fe-4501-bf21-cfd5adf428e2")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 1.5 1.5)
+					(thickness 0.3)
 				)
 			)
 		)
@@ -32627,7 +32394,7 @@
 		(layer "Cmts.User")
 		(uuid "b2b845c0-5234-457f-97de-7ed040a0a4fe")
 		(pts
-			(xy 156.3 95) (xy 156.3 145)
+			(xy 184.5 95) (xy 184.5 145)
 		)
 		(height 12.5)
 		(format
@@ -32648,194 +32415,9 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "50"
-			(at 142.65 120 90)
+			(at 170.85 120 90)
 			(layer "Cmts.User")
 			(uuid "b2b845c0-5234-457f-97de-7ed040a0a4fe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "b45b7a96-ab1b-4d45-9f2e-c024c2e70216")
-		(pts
-			(xy 119.989824 132.255503) (xy 100.939824 132.255503)
-		)
-		(height -10.45)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 110.464824 141.555503 0)
-			(layer "Cmts.User")
-			(uuid "b45b7a96-ab1b-4d45-9f2e-c024c2e70216")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "c8f8edf3-e67b-48c6-95a3-9c96ccaf7555")
-		(pts
-			(xy 99.014824 82.355503) (xy 79.964824 82.355503)
-		)
-		(height -13.9)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 89.489824 95.105503 0)
-			(layer "Cmts.User")
-			(uuid "c8f8edf3-e67b-48c6-95a3-9c96ccaf7555")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "ceba799d-ba90-45dc-af2a-9ffec768d01c")
-		(pts
-			(xy 129.514824 113.205503) (xy 110.464824 113.205503)
-		)
-		(height 11)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 119.989824 101.055503 0)
-			(layer "Cmts.User")
-			(uuid "ceba799d-ba90-45dc-af2a-9ffec768d01c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "d89cc5e8-81ed-44a5-8160-160f3cd69fdd")
-		(pts
-			(xy 89.489824 63.305503) (xy 70.439824 63.305503)
-		)
-		(height 13.05)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 79.964824 49.105503 0)
-			(layer "Cmts.User")
-			(uuid "d89cc5e8-81ed-44a5-8160-160f3cd69fdd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
-		(uuid "e097f8f8-c820-4a3b-904d-766ce296ee47")
-		(pts
-			(xy 91.414824 113.205503) (xy 72.364824 113.205503)
-		)
-		(height 11)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "19.05"
-			(at 81.889824 101.055503 0)
-			(layer "Cmts.User")
-			(uuid "e097f8f8-c820-4a3b-904d-766ce296ee47")
 			(effects
 				(font
 					(size 1 1)
@@ -32921,11 +32503,11 @@
 	(dimension
 		(type orthogonal)
 		(layer "Cmts.User")
-		(uuid "53f95cd6-a28f-4e91-8858-983fb6340f72")
+		(uuid "46cccc74-5d84-4ed3-a4c4-fe244bacb706")
 		(pts
-			(xy 119.989824 132.255503) (xy 129.514824 113.205503)
+			(xy 42 45) (xy 84 48.6)
 		)
-		(height 10.45)
+		(height -11.5)
 		(orientation 0)
 		(format
 			(prefix "")
@@ -32944,10 +32526,10 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "9.525"
-			(at 124.752324 141.555503 0)
+		(gr_text "42"
+			(at 63 32.35 0)
 			(layer "Cmts.User")
-			(uuid "53f95cd6-a28f-4e91-8858-983fb6340f72")
+			(uuid "46cccc74-5d84-4ed3-a4c4-fe244bacb706")
 			(effects
 				(font
 					(size 1 1)
@@ -32959,11 +32541,11 @@
 	(dimension
 		(type orthogonal)
 		(layer "Cmts.User")
-		(uuid "a56a2b47-f323-4256-853d-3faf5a7e01ac")
+		(uuid "cf29a345-7225-43c6-ba8b-66a9e3e561bb")
 		(pts
-			(xy 118.064824 82.355503) (xy 127.589824 63.305503)
+			(xy 184.5 45) (xy 142.5 48.6)
 		)
-		(height 13.9)
+		(height -9.5)
 		(orientation 0)
 		(format
 			(prefix "")
@@ -32982,10 +32564,10 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "9.525"
-			(at 122.827324 95.105503 0)
+		(gr_text "42"
+			(at 163.5 34.35 0)
 			(layer "Cmts.User")
-			(uuid "a56a2b47-f323-4256-853d-3faf5a7e01ac")
+			(uuid "cf29a345-7225-43c6-ba8b-66a9e3e561bb")
 			(effects
 				(font
 					(size 1 1)
@@ -32997,11 +32579,11 @@
 	(dimension
 		(type orthogonal)
 		(layer "Cmts.User")
-		(uuid "b687b798-02d0-451d-a22e-82c481677c39")
+		(uuid "dac8c5a3-02e7-4ab2-af28-eb2587953d3a")
 		(pts
-			(xy 119.989824 132.255503) (xy 129.514824 113.205503)
+			(xy 84 48.6) (xy 93.75 68.1)
 		)
-		(height 19.295)
+		(height -16.25)
 		(orientation 1)
 		(format
 			(prefix "")
@@ -33020,10 +32602,10 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "19.05"
-			(at 138.134824 122.730503 90)
+		(gr_text "19.5"
+			(at 66.6 58.35 90)
 			(layer "Cmts.User")
-			(uuid "b687b798-02d0-451d-a22e-82c481677c39")
+			(uuid "dac8c5a3-02e7-4ab2-af28-eb2587953d3a")
 			(effects
 				(font
 					(size 1 1)
@@ -33035,11 +32617,11 @@
 	(dimension
 		(type orthogonal)
 		(layer "Cmts.User")
-		(uuid "bd47beca-6098-4ff5-a433-4efecbe63736")
+		(uuid "f5e476b8-b1ed-4401-a3e9-44e9887dea10")
 		(pts
-			(xy 127.589824 63.305503) (xy 118.064824 82.355503)
+			(xy 84 121.9) (xy 93.75 141.4)
 		)
-		(height 9.215)
+		(height -19.25)
 		(orientation 1)
 		(format
 			(prefix "")
@@ -33058,52 +32640,16 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "19.05"
-			(at 135.654824 72.830503 90)
+		(gr_text "19.5"
+			(at 63.6 131.65 90)
 			(layer "Cmts.User")
-			(uuid "bd47beca-6098-4ff5-a433-4efecbe63736")
+			(uuid "f5e476b8-b1ed-4401-a3e9-44e9887dea10")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
 			)
-		)
-	)
-	(group ""
-		(uuid "44776df5-de75-4622-96e3-267f94a4c5c5")
-		(members "11ca85f5-9a3f-40a2-a45b-e928963c06db" "20bf58e4-2b90-4d70-b7b1-ac88d5bcdf00"
-			"454cc8d7-acb9-4043-8c6f-e24b7c35179d" "5a1ad3e1-a1d9-46c1-b6a7-d0ff3f2f3bfb"
-			"5ae24584-7606-4521-9556-d50dd3681c26" "5fdeb302-8564-467c-bebc-e881dda98ed1"
-			"6139e683-ba27-4afb-99c2-ea539be184cb" "765caece-a38b-4c0f-ae48-d02b5b9cff3e"
-			"a5511b36-dc74-4333-be8f-ccc447b7df63" "a56a2b47-f323-4256-853d-3faf5a7e01ac"
-			"bd47beca-6098-4ff5-a433-4efecbe63736" "c8f8edf3-e67b-48c6-95a3-9c96ccaf7555"
-			"d89cc5e8-81ed-44a5-8160-160f3cd69fdd" "fec2666a-daa3-4cb1-a5ab-e16f9e0b4daa"
-		)
-	)
-	(group ""
-		(uuid "a5ac204f-d879-4913-afe9-08e6da71d73d")
-		(members "0bb2f012-4894-4aa1-872b-301d49a9eec0" "2c8756b3-652d-4ea2-961f-c4ab3465ca5b"
-			"324e1fbd-be8e-4020-a062-71d3098e63ed" "32a4246f-2566-46cf-856c-e64a7c5a853b"
-			"3bede91f-6173-40af-aae5-1107557ae463" "53f95cd6-a28f-4e91-8858-983fb6340f72"
-			"59eb4f6d-dda3-4d6a-bb96-03a81274f1af" "6e7516a6-b028-4310-8e23-d56e9a79d736"
-			"751669a4-eeeb-4c13-8659-4de8d9181a8d" "b45b7a96-ab1b-4d45-9f2e-c024c2e70216"
-			"b687b798-02d0-451d-a22e-82c481677c39" "bd2ebf03-e115-481a-aa2e-a0e088b3b550"
-			"ceba799d-ba90-45dc-af2a-9ffec768d01c" "e097f8f8-c820-4a3b-904d-766ce296ee47"
-		)
-	)
-	(group ""
-		(uuid "d3b0ac59-7654-40bf-bff6-d182366413d8")
-		(members "409491a0-934b-4f3c-a1cf-2b55c4e7d586" "7184389b-3bc7-4c43-9fa2-1b4e15e8054d"
-			"e07aeb9b-e685-4b83-8c96-c9b7a0403c8d" "e94e979c-1193-4e7f-a38c-0b7e252e0551"
-			"f8d410fa-e878-4e44-ba43-e9354e7f5e69"
-		)
-	)
-	(group ""
-		(uuid "e63b0d29-b565-4cd4-9863-0159f2902da3")
-		(members "4a2ad7c8-6869-40ee-88b1-036ec342ef8f" "4df6ff93-847e-40ee-bbf5-d0f5d2f8c397"
-			"8503b629-37cb-4881-b29c-f01a40cb9000" "91bec24e-668e-43eb-9237-8b5cf82e109a"
-			"b2b845c0-5234-457f-97de-7ed040a0a4fe"
 		)
 	)
 	(embedded_fonts no)
