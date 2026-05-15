@@ -90,7 +90,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "05964023-71af-44b7-955c-bcf98447e7c0")
-		(at 263.8875 20.15)
+		(at 129.725 85.375)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -2326,7 +2326,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "1404a2f0-9db8-4e2b-8669-ac5bdf6f47f8")
-		(at 265.85 23.3)
+		(at 131.6875 88.525)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C6"
@@ -3116,7 +3116,7 @@
 	(footprint "Connector_Wire:SolderWire-0.25sqmm_1x04_P4.5mm_D0.65mm_OD2mm_Relief"
 		(layer "B.Cu")
 		(uuid "2324d7f0-feb7-46cc-8641-f3a5351b5943")
-		(at 235.1625 35.775 90)
+		(at 101 101 90)
 		(descr "Soldered wire connection with feed through strain relief, for 4 times 0.25 mm² wires, reinforced insulation, conductor diameter 0.65mm, outer diameter 2mm, size source Multi-Contact FLEXI-2V 0.25 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter")
 		(tags "connector wire 0.25sqmm strain-relief")
 		(property "Reference" "J1"
@@ -5290,7 +5290,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "31e20b4c-faa0-4ca5-beb2-ef4866f1060e")
-		(at 252.2625 20.675 90)
+		(at 118.1 85.9 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C12"
@@ -6803,7 +6803,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "3aa95429-7c51-4336-89e9-3a715b58f428")
-		(at 246.1375 33.675)
+		(at 111.975 98.9)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -10388,7 +10388,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "467eaaa5-f938-4255-be28-a2e5a52e33ec")
-		(at 233.025 40.325)
+		(at 98.8625 105.55)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D2"
@@ -10617,7 +10617,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "49c7fbb3-ebd9-4de4-8e36-846dc763b9d9")
-		(at 266.25 35.15)
+		(at 132.0875 100.375)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -14828,7 +14828,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_TL3305A"
 		(layer "B.Cu")
 		(uuid "5e641d17-67b1-4a14-a97d-ef21020ae80f")
-		(at 273.875 26.9)
+		(at 139.7125 92.125)
 		(descr "https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf")
 		(tags "TL3305 Series Tact Switch")
 		(property "Reference" "SW21"
@@ -18397,7 +18397,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "6f045363-9b79-40d7-8805-dbbc3b3b93b0")
-		(at 237.275 40.3 180)
+		(at 103.1125 105.525 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -18561,7 +18561,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "7143c0e5-b377-4ea2-84f3-d3852ceb606b")
-		(at 257.8625 19.3 180)
+		(at 123.7 84.525 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -19761,7 +19761,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "722dab43-1d31-48cb-a48e-ec9fa5a02d09")
-		(at 246.0375 31.3)
+		(at 111.875 96.525)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -21997,7 +21997,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "B.Cu")
 		(uuid "776e69a7-4704-446f-9711-3f7f92d9a63e")
-		(at 250.875 32.775 -90)
+		(at 116.7125 98 -90)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP2"
@@ -22737,7 +22737,7 @@
 	(footprint "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical"
 		(layer "B.Cu")
 		(uuid "90d6ecef-43ca-4fd6-bcef-6dab43c8ee9d")
-		(at 245.2875 20.45 90)
+		(at 111.125 85.675 90)
 		(descr "Through hole straight pin header, 1x04, 1.27mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 1.27mm single row")
 		(property "Reference" "J2"
@@ -24688,7 +24688,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "998e790b-7e9d-41f7-b73c-1886cc23d475")
-		(at 270.375 21.625 90)
+		(at 136.2125 86.85 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C5"
@@ -25165,7 +25165,7 @@
 	(footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm"
 		(layer "B.Cu")
 		(uuid "9eb4db94-fbdb-4a99-8b5f-72d1f7fa2508")
-		(at 257.8375 26.05 180)
+		(at 123.675 91.275 180)
 		(descr "LQFP, 48 Pin (JEDEC MS-026 variation BBC, 1.40mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MS-026, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-lqfp/05081760_a_lx48.pdf)")
 		(tags "LQFP QFP CASE-932AA CASE-932-03 C48-1 C48-2 C48-3 C48-5 C48-6 C48-6C PT0048A")
 		(property "Reference" "U3"
@@ -26057,7 +26057,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "B.Cu")
 		(uuid "a236b700-50b8-4c8e-90c3-edbd44321e58")
-		(at 243.7375 24.6875)
+		(at 109.575 89.9125)
 		(descr "SOT, 6 Pin (JEDEC MO-178 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
@@ -26425,7 +26425,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "a60e13df-6aad-4c6b-8431-c93491d62397")
-		(at 248.9875 20.55 90)
+		(at 114.825 85.775 90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C13"
@@ -26589,7 +26589,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "B.Cu")
 		(uuid "b025b9b4-7e09-4de2-8c00-980908d1e885")
-		(at 270.725 39 90)
+		(at 136.5625 104.225 90)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP1"
@@ -27739,7 +27739,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "bdbf2c5c-e3a1-46b7-a116-7fb66b3b475e")
-		(at 241.2 40.525 180)
+		(at 107.0375 105.75 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -28216,7 +28216,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
 		(layer "B.Cu")
 		(uuid "c339aec6-d399-4dfc-b459-9cdf2c4f26e9")
-		(at 265.15 39.025 90)
+		(at 130.9875 104.25 90)
 		(descr "SMD pad as test Point, diameter 1.0mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP3"
@@ -28330,7 +28330,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "c69e68e0-6241-4373-b6aa-0b9e3a57602c")
-		(at 266.075 27.25)
+		(at 131.9125 92.475)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C10"
@@ -28494,7 +28494,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "c7078836-a134-43fb-8a54-a7c645ea0e46")
-		(at 255.8625 36.325)
+		(at 121.7 101.55)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C9"
@@ -28658,7 +28658,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-5"
 		(layer "B.Cu")
 		(uuid "c8746ed8-f8db-4b6c-b72d-c439c926b7ec")
-		(at 246.0375 37.3 -90)
+		(at 111.875 102.525 -90)
 		(descr "SOT, 5 Pin (JEDEC MO-178 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U1"
@@ -29066,7 +29066,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "cb5f273a-0fcc-4bc7-9564-639e7499687f")
-		(at 255.9375 32.725)
+		(at 121.775 97.95)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C7"
@@ -29230,7 +29230,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "cc31679d-0cdc-4943-8cba-c4ed278c7bea")
-		(at 266.1 30.525)
+		(at 131.9375 95.75)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C11"
@@ -29394,7 +29394,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "d03c9831-e8dd-4986-afa0-b7ac2eada3f9")
-		(at 248.1125 24.875 -90)
+		(at 113.95 90.1 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
@@ -29558,7 +29558,7 @@
 	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "B.Cu")
 		(uuid "de2da560-d41e-4cd1-97b3-31f7a332705b")
-		(at 270.425 35.2 180)
+		(at 136.2625 100.425 180)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D3"
@@ -30823,7 +30823,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "B.Cu")
 		(uuid "f416fe02-b319-40a7-a966-30dc3f260e31")
-		(at 250.1375 36.85 90)
+		(at 115.975 102.075 90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -30987,7 +30987,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "B.Cu")
 		(uuid "fd0b46d5-a4c3-44b6-a412-72ebd1ccce57")
-		(at 240.3625 33.775 -90)
+		(at 106.2 99 -90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D1"
@@ -32315,6 +32315,66 @@
 		(layer "Cmts.User")
 		(uuid "021129e9-de0f-4398-8b13-8b3b5f1204a4")
 	)
+	(gr_line
+		(start 30 33)
+		(end 30 157)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6dd178ab-a96b-4e13-ac91-523154d97e8c")
+	)
+	(gr_line
+		(start 30 157)
+		(end 196.5 157)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fe0fee09-d728-4054-aa0a-820ce5c050b8")
+	)
+	(gr_line
+		(start 72 33)
+		(end 72 157)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a7ea32c5-d682-4c71-b2c7-7ffbd01d7000")
+	)
+	(gr_line
+		(start 154.5 33)
+		(end 154.5 157)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "77233184-d7dd-4ca6-8d63-0773338b220d")
+	)
+	(gr_line
+		(start 196.5 33)
+		(end 30 33)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "68916ef4-1485-439b-8b49-979bbd709d2a")
+	)
+	(gr_line
+		(start 196.5 157)
+		(end 196.5 33)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ed07cf49-cb5f-4ad2-98a6-744c6b2054fd")
+	)
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
@@ -32503,6 +32563,44 @@
 	(dimension
 		(type orthogonal)
 		(layer "Cmts.User")
+		(uuid "158dc53e-e950-4fa8-9862-8f5605999b6f")
+		(pts
+			(xy 142.5 48.6) (xy 154.5 48.6)
+		)
+		(height -17.1)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "12"
+			(at 148.5 30.35 0)
+			(layer "Cmts.User")
+			(uuid "158dc53e-e950-4fa8-9862-8f5605999b6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
 		(uuid "46cccc74-5d84-4ed3-a4c4-fe244bacb706")
 		(pts
 			(xy 42 45) (xy 84 48.6)
@@ -32530,6 +32628,158 @@
 			(at 63 32.35 0)
 			(layer "Cmts.User")
 			(uuid "46cccc74-5d84-4ed3-a4c4-fe244bacb706")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "543ba9bb-e2e4-4717-b4b8-c01b9b80b511")
+		(pts
+			(xy 42 45) (xy 30 45)
+		)
+		(height -16)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "12"
+			(at 36 27.85 0)
+			(layer "Cmts.User")
+			(uuid "543ba9bb-e2e4-4717-b4b8-c01b9b80b511")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "6069b451-66ec-48ad-813e-d7ab264ead42")
+		(pts
+			(xy 42 45) (xy 84 48.6)
+		)
+		(height -15.75)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "3.6"
+			(at 25.1 46.8 90)
+			(layer "Cmts.User")
+			(uuid "6069b451-66ec-48ad-813e-d7ab264ead42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "90de26f8-34f0-423c-b6a5-019b76f467d9")
+		(pts
+			(xy 184.5 45) (xy 196.5 45)
+		)
+		(height -13.5)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "12"
+			(at 190.5 30.35 0)
+			(layer "Cmts.User")
+			(uuid "90de26f8-34f0-423c-b6a5-019b76f467d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "a883b077-702b-47c1-8610-c8b15cddb41a")
+		(pts
+			(xy 42 145) (xy 93.75 141.4)
+		)
+		(height -17.25)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "3.6"
+			(at 23.6 143.2 90)
+			(layer "Cmts.User")
+			(uuid "a883b077-702b-47c1-8610-c8b15cddb41a")
 			(effects
 				(font
 					(size 1 1)
@@ -32606,6 +32856,44 @@
 			(at 66.6 58.35 90)
 			(layer "Cmts.User")
 			(uuid "dac8c5a3-02e7-4ab2-af28-eb2587953d3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "ef2b1453-04b4-400a-8bc0-62079732d4d9")
+		(pts
+			(xy 84 48.6) (xy 72 48.6)
+		)
+		(height -17.1)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "12"
+			(at 78 30.35 0)
+			(layer "Cmts.User")
+			(uuid "ef2b1453-04b4-400a-8bc0-62079732d4d9")
 			(effects
 				(font
 					(size 1 1)
