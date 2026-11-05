@@ -707,7 +707,7 @@
         "uuid": "8fa3239c-30fb-4192-be1c-14eb4ea53b21"
       }
     ],
-    "used_designators": "SW5,SW16,SW18-21,J3-4,D17",
+    "used_designators": "SW5,SW16,SW18-21,J3-5,#PWR25-26,D17",
     "variants": []
   },
   "sheets": [
