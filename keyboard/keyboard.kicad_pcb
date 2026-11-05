@@ -31768,14 +31768,6 @@
 			)
 		)
 	)
-	(via
-		(at 212.625 81.875)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net "")
-		(uuid "c28f3e3b-42af-4447-b7ca-d15b3d950a0b")
-	)
 	(segment
 		(start 168.35 83.25)
 		(end 162.55 83.25)
